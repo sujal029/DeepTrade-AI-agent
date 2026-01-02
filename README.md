@@ -22,22 +22,22 @@ Understand limitations of sentiment-driven financial prediction
 
 ## Features 🚀
 
-## Text & Market Signal Processing
+# Text & Market Signal Processing
 Processes unstructured inputs (e.g., sentiment text) into numerical features.
 
-## Machine Learning-Based Prediction
+# Machine Learning-Based Prediction
 Uses traditional ML classifiers to predict directional outcomes (e.g., price up/down).
 
-## Modular Architecture
+# Modular Architecture
 Each stage (data processing, feature extraction, prediction, decision) is isolated and replaceable.
 
-## Evaluation Metrics
+# Evaluation Metrics
 Includes accuracy, precision, recall, and F1-score for transparent model evaluation.
 
-## Simulation-Oriented Execution
+# Simulation-Oriented Execution
 Designed for experimentation and offline analysis rather than live trading.
 
-## System Architecture 🧠
+# System Architecture 🧠
 Input Signal (Text / Market Data)
         ↓
 Text Preprocessing
