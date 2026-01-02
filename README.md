@@ -86,13 +86,13 @@ Output a directional decision signal
 ## ⚠️ Note: This project runs in simulation mode only and does not perform real trading.
 
 # Project Structure 📁
-# DeepTrade-AI-agent/
-# ├── data/              # Dataset handling
-# ├── models/            # ML model logic
-# ├── utils/             # Preprocessing & helpers
-# ├── crypto_trading_agent.py  # Main execution script
-# ├── requirements.txt
-# └── README.md
+ DeepTrade-AI-agent/
+  ├── data/              # Dataset handling
+  ├── models/            # ML model logic
+  ├── utils/             # Preprocessing & helpers
+  ├── crypto_trading_agent.py  # Main execution script
+  ├── requirements.txt
+  └── README.md
 
 # Algorithms Used 🤖
 
