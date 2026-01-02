@@ -96,25 +96,25 @@ Output a directional decision signal
 
 # Algorithms Used 🤖
 
-# ⚠️ Disclaimer: Algorithms are used to demonstrate pipeline behavior, not financial edge.
+ ⚠️ Disclaimer: Algorithms are used to demonstrate pipeline behavior, not financial edge.
 
-# Sentiment Analysis
+  Sentiment Analysis
 
-# VADER (NLTK) for lightweight sentiment scoring
+  VADER (NLTK) for lightweight sentiment scoring
 
-# Machine Learning Models
+  Machine Learning Models
 
-# Logistic Regression
+  Logistic Regression
 
-# Decision Tree Classifier
+  Decision Tree Classifier
 
-# Evaluation Metrics
+  Evaluation Metrics
 
-# Accuracy
+  Accuracy
 
-# Precision / Recall
+  Precision / Recall
 
-# F1 Score
+  F1 Score
 
 # Known Limitations ⚠️
 
