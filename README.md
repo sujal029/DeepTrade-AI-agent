@@ -1,8 +1,8 @@
-DeepTrade-AI-Agent 🤖📊
+## DeepTrade-AI-Agent 🤖📊
 
 An Experimental AI Decision Pipeline for Financial Signal Interpretation
 
-Overview
+## Overview
 
 DeepTrade-AI-Agent is an experimental AI decision agent designed to demonstrate how unstructured signals (such as text-based market sentiment) can be converted into structured decision outputs using machine learning.
 
@@ -10,7 +10,7 @@ The primary goal of this project is not to achieve production-grade trading accu
 
 This project is intended for learning, research, and system design experimentation.
 
-Key Objectives
+## Key Objectives
 
 Build an end-to-end AI decision pipeline
 
@@ -20,24 +20,24 @@ Design a modular and explainable system
 
 Understand limitations of sentiment-driven financial prediction
 
-Features 🚀
+## Features 🚀
 
-Text & Market Signal Processing
+## Text & Market Signal Processing
 Processes unstructured inputs (e.g., sentiment text) into numerical features.
 
-Machine Learning-Based Prediction
+## Machine Learning-Based Prediction
 Uses traditional ML classifiers to predict directional outcomes (e.g., price up/down).
 
-Modular Architecture
+## Modular Architecture
 Each stage (data processing, feature extraction, prediction, decision) is isolated and replaceable.
 
-Evaluation Metrics
+## Evaluation Metrics
 Includes accuracy, precision, recall, and F1-score for transparent model evaluation.
 
-Simulation-Oriented Execution
+## Simulation-Oriented Execution
 Designed for experimentation and offline analysis rather than live trading.
 
-System Architecture 🧠
+## System Architecture 🧠
 Input Signal (Text / Market Data)
         ↓
 Text Preprocessing
@@ -49,7 +49,7 @@ ML Classifier
 Decision Layer (Directional Signal)
 
 
-Design Philosophy:
+## Design Philosophy:
 The pipeline emphasizes deterministic control and interpretability, avoiding black-box decision making wherever possible.
 
 Installation 🛠️
@@ -62,11 +62,11 @@ pip
 Git
 
 Setup
-git clone https://github.com/sujal029/DeepTrade-AI-agent.git
-cd DeepTrade-AI-agent
-pip install -r requirements.txt
+## git clone https://github.com/sujal029/DeepTrade-AI-agent.git
+## cd DeepTrade-AI-agent
+## pip install -r requirements.txt
 
-Usage 📈
+# Usage 📈
 
 Run the experimental agent:
 
@@ -83,40 +83,40 @@ Evaluate model performance
 
 Output a directional decision signal
 
-⚠️ Note: This project runs in simulation mode only and does not perform real trading.
+## ⚠️ Note: This project runs in simulation mode only and does not perform real trading.
 
-Project Structure 📁
-DeepTrade-AI-agent/
-├── data/              # Dataset handling
-├── models/            # ML model logic
-├── utils/             # Preprocessing & helpers
-├── crypto_trading_agent.py  # Main execution script
-├── requirements.txt
-└── README.md
+# Project Structure 📁
+# DeepTrade-AI-agent/
+# ├── data/              # Dataset handling
+# ├── models/            # ML model logic
+# ├── utils/             # Preprocessing & helpers
+# ├── crypto_trading_agent.py  # Main execution script
+# ├── requirements.txt
+# └── README.md
 
-Algorithms Used 🤖
+# Algorithms Used 🤖
 
-⚠️ Disclaimer: Algorithms are used to demonstrate pipeline behavior, not financial edge.
+# ⚠️ Disclaimer: Algorithms are used to demonstrate pipeline behavior, not financial edge.
 
-Sentiment Analysis
+# Sentiment Analysis
 
-VADER (NLTK) for lightweight sentiment scoring
+# VADER (NLTK) for lightweight sentiment scoring
 
-Machine Learning Models
+# Machine Learning Models
 
-Logistic Regression
+# Logistic Regression
 
-Decision Tree Classifier
+# Decision Tree Classifier
 
-Evaluation Metrics
+# Evaluation Metrics
 
-Accuracy
+# Accuracy
 
-Precision / Recall
+# Precision / Recall
 
-F1 Score
+# F1 Score
 
-Known Limitations ⚠️
+# Known Limitations ⚠️
 
 Financial markets are noisy and non-stationary
 
@@ -138,18 +138,18 @@ Typed schemas for structured outputs
 
 Experimentation with reinforcement learning (research-only)
 
-License 📜
+# License 📜
 
-MIT License
+## MIT License
 
-Contact 📬
+## Contact 📬
 
-Sujal Singh Bais
-📧 Email: baissujal292@gmail.com
+## Sujal Singh Bais
+## 📧 Email: baissujal292@gmail.com
 
-🔗 LinkedIn: https://linkedin.com/in/sujalsingh07
+## 🔗 LinkedIn: https://linkedin.com/in/sujalsingh07
 
-Final Note
+# Final Note
 
 This project represents my approach to AI systems:
 
